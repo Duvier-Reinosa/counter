@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.principalText {
+  font-weight: 700;
+  font-size: 3.5rem;
+}
